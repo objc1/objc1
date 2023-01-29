@@ -9,6 +9,7 @@
 
 ### Education:
 - Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"](https://www.hse.ru/en/), Faculcty of Computer Science `2020-2022`
+- Diploma in Computer Programming at [Durham College of Applied Arts and Technology](https://durhamcollege.ca/), `2023-2024`
 
 ---
 
