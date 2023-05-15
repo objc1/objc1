@@ -3,7 +3,7 @@
 
 #### My name is Maxim, I am `current_year - 2002` y.o. 
 
-#### Software Engineer and Swift iOS developer, now based in London, UK.
+#### Software Engineer and Swift iOS developer, now based in Ontario, Canada.
 
 ---
 
