@@ -1,15 +1,15 @@
 <h1 align="left">Hey there</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-#### My name is Maxim, I am `current_year - 2002` y.o. 
+#### My name is Max, I am `current_year - 2002` y.o. 
 
-#### Software Engineer and Swift iOS developer, now based in Ontario, Canada.
+#### Software Engineer and iOS developer, now based in Ontario, Canada.
 
 ---
 
 ### Education:
-- Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"](https://www.hse.ru/en/), Faculcty of Computer Science `2020-2022`
 - Diploma in Computer Programming at [Durham College of Applied Arts and Technology](https://durhamcollege.ca/), `2023-2024`
+- Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"](https://www.hse.ru/en/), Faculcty of Computer Science `2020-2022`
 
 ---
 
