@@ -5,8 +5,8 @@
 
 #### Software Engineer and iOS developer, now based in Ontario, Canada.
 
-Developing an app that uses an advanced AI model to monitor and improve your mental health. Incubated at the Harvard Innovation Labs and biotech accelerator @ Nucleate now in partnership with Harvard Business School. The app helps adults optimize their well-being through the management of stress, sleep, and burnout.
-During my journey in the startup, I’ve been working on developing a mobile application which is aimed to fetch users' health data via HealthKit and send it to Firebase. We’ve launched study research among MIT and Harvard students and are planning to expand our research.
+Developing an app that uses an advanced AI model to monitor and improve your mental health. Incubated at the **Harvard Innovation Labs** and **biotech accelerator @ Nucleate** now in partnership with **Harvard Business School**. The app helps adults optimize their well-being through the management of stress, sleep, and burnout.
+During my journey in the startup, I’ve been working on developing a mobile application which is aimed to fetch users' health data via HealthKit and send it to Firebase. We’ve launched study research among **MIT** and **Harvard students** and are planning to expand our research.
 
 ---
 
