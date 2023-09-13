@@ -11,7 +11,7 @@ We’ve launched study research among `MIT` and `Harvard students` and are plann
 ---
 
 ### Education:
-- Diploma in Computer Programming at [Durham College of Applied Arts and Technology](https://durhamcollege.ca/), `2023-2024`
+- Diploma in Computer Programming at [Durham College of Applied Arts and Technology](https://durhamcollege.ca/), `2023-2025`
 - Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"](https://www.hse.ru/en/) (unfinished unfortunately), Faculcty of Computer Science `2020-2022`
 
 ---
