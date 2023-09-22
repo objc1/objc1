@@ -1,9 +1,9 @@
 <h1 align="left">Hey there</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-#### My name is `Max`
+### My name is `Max`
 
-#### `Software Engineer` who's found his passion in `iOS development`, now based in Ontario, Canada.
+### `Software Engineer` who's found his passion in `iOS development`, now based in Ontario, Canada.
 
 Developing an app that uses an advanced AI model to monitor and improve your mental health. Incubated at the `Harvard Innovation Labs` and `biotech accelerator @ Nucleate` now in partnership with `Harvard Business School`. The app helps adults optimize their well-being through the management of stress, sleep, and burnout.
 We’ve launched study research among `MIT` and `Harvard students` and are planning to expand our research.
