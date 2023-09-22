@@ -1,5 +1,6 @@
-<h1 align="left">Hey there</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="left">Hey there
+<a img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></a>
+</h1>
 
 <h1 align="left">My name is `Max`</h1>
 
