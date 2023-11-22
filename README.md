@@ -11,7 +11,7 @@ We’ve launched study research among `MIT` and `Harvard students` and are plann
 
 **Education:**
 - Diploma in Computer Programming at [Durham College of Applied Arts and Technology](https://durhamcollege.ca/) `2023-2025`
-- Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"](https://www.hse.ru/en/) (unfinished unfortunately), Faculcty of Computer Science `2020-2022`
+- Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"](https://www.hse.ru/en/) (not finished, unfortunately), Faculty of Computer Science `2020-2022`
 
 ---
 
@@ -20,6 +20,10 @@ We’ve launched study research among `MIT` and `Harvard students` and are plann
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+**Stats & Achievements:** <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vip933&layout=compact&langs_count=10)
 
 ---
 
