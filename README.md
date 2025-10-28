@@ -19,7 +19,7 @@ Ontario, Canada 🇨🇦 / Tel Aviv, Israel 🇮🇱
 
 ### 🎓 Education
 - Advanced Diploma, Hon. — **Computer Programming and Analysis**, Durham College (2023–2025, fast-track)  
-- BSc — **Software Engineering**, HSE University (2020–2022, incomplete)
+- BSc — **Software Engineering**, HSE University (2020–2022, withdrew voluntarily)
 - **iOS Mobile Development School**, Yandex (2022)  
 
 ---
