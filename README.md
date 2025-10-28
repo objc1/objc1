@@ -44,6 +44,9 @@ Ontario, Canada 🇨🇦 / Tel Aviv, Israel 🇮🇱
   📧 <a href="mailto:max@leponlabs.dev">Email</a> &nbsp;|&nbsp;
   🌐 <a href="https://leponlabs.dev">Website</a>
 </p>
+<p>
+  ➜ <a href="https://github.com/vip933">Old GitHub</a>
+</p>
 
 ---
 
